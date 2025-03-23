@@ -2,7 +2,7 @@
 - Repositório criado para uso educacional.
 - Finalidade de realizar o desafio do Curso de Github Certification ministrado na plataforma DIO.
 
-# Projeto modelo utilizado, implantação de Flask em container Docker
+# Projeto modelo utilizado, implantação de Flask 
 
 Passos para sistema Linux (Ubuntu)
 1. Escolher um diretório local, para criar ambiente virtual Python
