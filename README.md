@@ -11,3 +11,4 @@ Passos para sistema Linux (Ubuntu)
 4. Instalar Flask, "pip install Flask"
 5. Criar arquivo de aplicação flask
 6. Executar arquivo flask com o comando: "flask --app hello run"
+7. Para debug executar o comando "flask --app hello run --debug"
